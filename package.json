@@ -1,0 +1,35 @@
+{
+  "name": "gamealgo",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of interactive game algorithms and data structure visualizations",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server .",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Deploy to your preferred hosting platform'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prash08484/GameAlgo.git"
+  },
+  "keywords": [
+    "algorithms",
+    "games",
+    "data-structures",
+    "visualization",
+    "education",
+    "interactive",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Prashant (prash08484)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prash08484/GameAlgo/issues"
+  },
+  "homepage": "https://github.com/prash08484/GameAlgo#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
