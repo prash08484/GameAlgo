@@ -1,15 +1,6 @@
 {
-  "functions": {},
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  "buildCommand": null,
+  "outputDirectory": "./",
+  "installCommand": null,
+  "devCommand": null
 }
