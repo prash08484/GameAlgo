@@ -74,7 +74,7 @@ const projects = [
         subtitle: 'Competitive Programming',
         description: 'Comprehensive collection of algorithms and data structures implemented in C++. Perfect for competitive programming and interview preparation.',
         icon: 'fas fa-code',
-        technologies: ['C++', 'Algorithms', 'Data Structures'],
+        technologies: ['Data Structures','Algorithms'],
         liveUrl: null,
         repoUrl: 'https://github.com/prash08484/Algorithm',
         features: [
